@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">androidEOCGame</string>
+    <string name="thisStupid">IntelliJ is almost as stupid as u</string>
+    <string name="buttonText">Yes</string>
+    <string name="randomText">This is almost as stupid as you little asdfholes</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="yes">right :)</string>
+    <string name="no">wrong :(</string>
+    <string name="ThisIsAStupidTest">Ths is a stupid test</string>
+</resources>
