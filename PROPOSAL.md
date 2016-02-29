@@ -21,9 +21,9 @@ during the course of the year, which may be fine.
 
 | Date          | Deliverable   |
 | ------------- | ------------- |
-| February 26   | a working platformer, without any items, or enemies|
-| April 1       | adding players, enemies, weapons, armor, and also possibily difficulty levels |
-| April 29      | a game that has been polished, and is working perfectly|
+| February 26   | Making a simple game with buttons |
+| April 1       | adding a canvas, and also creating a platform|
+| April 29      | add items, and other characters|
 
 ## Reality Check
 I am looking for moonshots here, but even moonshots need budgets. What
