@@ -14,4 +14,7 @@ Journal Entry #5:
 In this week, I didn't really do much :(. I didn't really open Android Studio at all, except to do some simple things. I basically decided to work on my sorting algorithms, which I don't really get merge. So really, I have nothing to really write about. One thing I did investigate on is another way to get something very close to a canvas. I'm gonna try it on Monday. Hopefully, it'll work, because if it doesn't, then I'll have to probably change my whole project, because, without a canvas, there's no way you could get a plat former to work. There isn't really much other stuff to write here, so I'll try to reach the 150 word limit, by talking about how I'm gonna reach the 150 word limit. Android Studio is getting better, and I feel like, to me, Android Studio could actually workout pretty well in the end.
 
 Journal Entry #6:
-//not done yet
+In this week, the way I did canvases before sucked, and so I searched the Android Studio user guide thing online, and went to some pages that had nothing to really do to canvases, and found a way of implementing canvases. This new way requires typing code instead of the last way, which was dragging things from the toolbox into the visual of the current app. Anyways, I have a feeling that I may not be able to make this as amazing as I thought, because seeing what other groups have already done, It seems that I'm actually kinda far behind. This is a problem, because it's only like 20 days until April, and I only work on my project for maybe 2-3 days per week. To make sure that I catch up enough, I'm going to make sure that I will work on Android Studio at least 4 days per week. This way, I may be able to catch up again. 
+
+Journal Entry #7:
+//working on
