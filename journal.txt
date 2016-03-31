@@ -17,5 +17,9 @@ Journal Entry #6:
 In this week, the way I did canvases before sucked, and so I searched the Android Studio user guide thing online, and went to some pages that had nothing to really do to canvases, and found a way of implementing canvases. This new way requires typing code instead of the last way, which was dragging things from the toolbox into the visual of the current app. Anyways, I have a feeling that I may not be able to make this as amazing as I thought, because seeing what other groups have already done, It seems that I'm actually kinda far behind. This is a problem, because it's only like 20 days until April, and I only work on my project for maybe 2-3 days per week. To make sure that I catch up enough, I'm going to make sure that I will work on Android Studio at least 4 days per week. This way, I may be able to catch up again. 
 
 Journal Entry #7:
-//working on
-do two later
+This week, I found Android Studio to be very confusing. I'm very behind right now, and I don't think that I can make it. I'm probably going to just go with a simpler version of a game, because I'm very very behind. Currently, Android Studio has made sense to me sometimes, but some of the other times that I've use it, It's just plain stupid, like most of it's commands could be done in very simple ways compared to the ways they do it in Android Studio. For instance, to create text, pictures, and other variables, you need to store it in at least two places to call it. Also, what makes it even worse, is that Android Studio seems to a file that's too big to just smoothly run on these computers, but also on my computer at home. I'm going to probably change the direction I'm heading and actually probably end up doing an easier game.
+
+Journal Entry #8:
+//Todo
+
+Journal Entry #9:
