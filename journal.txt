@@ -20,6 +20,7 @@ Journal Entry #7:
 This week, I found Android Studio to be very confusing. I'm very behind right now, and I don't think that I can make it. I'm probably going to just go with a simpler version of a game, because I'm very very behind. Currently, Android Studio has made sense to me sometimes, but some of the other times that I've use it, It's just plain stupid, like most of it's commands could be done in very simple ways compared to the ways they do it in Android Studio. For instance, to create text, pictures, and other variables, you need to store it in at least two places to call it. Also, what makes it even worse, is that Android Studio seems to a file that's too big to just smoothly run on these computers, but also on my computer at home. I'm going to probably change the direction I'm heading and actually probably end up doing an easier game.
 
 Journal Entry #8:
-//Todo
+This week, I didn't have much time to do my 20% project, just the Friday that we always use to work on it. The reason for this, is because I'm also now slightly behind on my pix-lab thing. I get everything on my pix-lab, but it's time consuming. The thing for my 20% project, is that I still don't understand all of the basics of Android Studio, I just know the just of a few things. I'm now planning to read a lot about Android Studio. I'm pretty sure that this will help me. Currently, it's probably still not impossible, but I have a lot sports, and that takes a ton of my time. This might be a problem in this class, because 
 
 Journal Entry #9:
+//Starting currently
